@@ -1,0 +1,17 @@
+{
+    "id": "LPnCoDeckSkin",
+    "name": "Lord Percival XII & Co. Deck Skin",
+    "display_name": "Lord Percival XII & Co. Deck Skin",
+    "author": ["LordPercivalXII"],
+    "description": "A silly lil' mod that adds face designs based on L.P.'s art",
+    "prefix": "DeckSkin_LP_XII",
+    "main_file": "LP_XII_DeckSkin.lua",
+    "priority": 0,
+    "badge_colour": "",
+    "badge_text_colour": "",
+    "version": "0.1.0",
+    "dependencies": [
+        "Steamodded (>=1.*)",
+        "Lovely (>=0.7)"
+    ]
+}
