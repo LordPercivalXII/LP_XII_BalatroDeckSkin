@@ -4,7 +4,7 @@ This is just a small mod that adds a custom deck face theme, based on characters
 
 ## Art Style
 
-Do note that whatever is shown here may differ to what appears ingame, mainly due to scaling and asset size.
+Do note that whatever is shown here may differ to what appears ingame, mainly due to scaling and colours shown in game.
 
 ### Hearts
 
@@ -29,3 +29,9 @@ Do note that whatever is shown here may differ to what appears ingame, mainly du
 <img src="https://github.com/LordPercivalXII/LP_XII_BalatroDeckSkin/blob/main/assets/2x/lp_n_co_clubs_lc.png" alt="clubs_lc" style="width:100%; height:auto;">
 
 <img src="https://github.com/LordPercivalXII/LP_XII_BalatroDeckSkin/blob/main/assets/2x/lp_n_co_clubs_hc.png" alt="clubs_hc" style="width:100%; height:auto;">
+
+### Full Deck
+
+<img src="https://github.com/LordPercivalXII/LP_XII_BalatroDeckSkin/blob/main/assets/2x/lp_n_co_deck_custom_lc.png" alt="clubs_lc" style="width:100%; height:auto;">
+
+<img src="https://github.com/LordPercivalXII/LP_XII_BalatroDeckSkin/blob/main/assets/2x/lp_n_co_deck_custom_hc.png" alt="clubs_hc" style="width:100%; height:auto;">
