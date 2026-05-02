@@ -4,7 +4,24 @@ This is just a small mod that adds a custom deck face theme, based on characters
 
 ## Art Style
 
-Do note that whatever is shown here may differ to what appears ingame, mainly due to scaling and colours shown in game.
+In the deck customisation option, each suit has customisation with the following options:
+
+- Lord Percival XII & Co. (Base Edition)
+- Lord Percival XII & Co. - Extended
+- Lord Percival XII & Co. - Ultimate
+
+The base edition changes only the face cards, less the Ace Rank.
+
+Meanwhile the extended edition changes the face cards, including the Ace Rank.
+
+Lastly the ultimate edition changes the entire suit to use a custom suit theme:
+
+- Hearts --> Top Hat
+- Spades --> Tea/Tea Bag
+- Diamonds --> Alchemy Flask
+- Clubs --> Sword
+
+Do note that whatever is shown below may differ to what appears in game, mainly due to scaling and colours (e.g. Navy Blue colour may show as Dark Blue/Almost Black).
 
 ### Hearts
 
